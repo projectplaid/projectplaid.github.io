@@ -17,9 +17,8 @@ title: Project Plaid
 email: robert@projectplaid.com
 description: >- # this means to ignore newlines until "baseurl:"
   Project Plaid is an attempt to create a full computer system from
-  "scratch". It'll be using [RISC-V](http://riscv.org) as the target
-  CPU, and have an operating system built on top, likely along the
-  lines of [Project Oberon](http://www.projectoberon.com).
+  "scratch". It'll be using RISC-V as the target CPU, and have an 
+  operating system built on top, likely along the lines of Project Oberon.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: projectplaid
